@@ -38,7 +38,7 @@ Generation: GPT-4o-mini seçilmiş kontekst əsasında rəsmi üslubda yekun cav
 📦 Quraşdırılma
 1.Repozitoriyanı klonlayın:
 
-git clone https://github.com/istifadeci_adiniz/ai-strategy-rag-bot.git
+git clone https://github.com/samadsafarov/Azerbaijan-AI-Strategy-RAG-Bot-.git
 cd ai-strategy-rag-bot
 
 2.Kitabxanaları yükləyin:
